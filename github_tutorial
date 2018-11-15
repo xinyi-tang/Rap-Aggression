@@ -1,0 +1,11 @@
+To make changes to the master repo:
+> git pull origin master
+This is to make sure that there is no merge conflict (merging is when you merge your local repository to the master repositry)
+Then, if there is no conflict:
+> git add .
+This is just saying, "Add every file in my local repository to the files that I want to push"
+> git commit -m "insert message here"
+This is to commit your files to be added with a message saying what you are about to change. Note that you have not added anything to the 
+master repo yet.
+Finally,:
+> git push origin master

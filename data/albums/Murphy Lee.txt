@@ -1,0 +1,1 @@
+[{'tracks': [{'track_title': u'Back to the Basics', 'collaborators': [u'Yung Gravy'], 'uri': u'spotify:track:5JQv5kFLkO8ZFu49cRLs8T'}], 'release_date': u'2017-09-20', 'name': u'Back to the Basics', 'uri': u'spotify:album:4M9DCQyC3gsWbObsy0zVFw'}]

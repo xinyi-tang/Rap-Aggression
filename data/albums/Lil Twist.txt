@@ -1,1 +1,1 @@
-[{'tracks': [{'track_title': u'Anger Management', 'collaborators': [u'Boys of Fall'], 'uri': u'spotify:track:3R5dXQFlT8CrWedBVcCli4'}], 'release_date': u'2017-04-14', 'name': u'Anger Management', 'uri': u'spotify:album:6yfNFDmwz2e6GHCrCd2noa'}]
+[{'name': 'Anger Management', 'uri': 'spotify:album:6yfNFDmwz2e6GHCrCd2noa', 'release_date': '2017-04-14', 'tracks': [{'track_title': 'Anger Management', 'uri': 'spotify:track:3R5dXQFlT8CrWedBVcCli4', 'collaborators': ['Boys of Fall']}]}]

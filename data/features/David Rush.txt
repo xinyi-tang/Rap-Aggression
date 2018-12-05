@@ -1,0 +1,1 @@
+[{'name': 'A Writers Dream', 'date': '2017-12-02', 'features': [{'energy': 0.519625}, {'loudness': -9.029250000000001}, {'tempo': 110.635125}, {'valence': 0.49862500000000004}]}, {'name': 'One Day From The Sun', 'date': '2017-03-17', 'features': [{'energy': 0.5972999999999999}, {'loudness': -7.855200000000001}, {'tempo': 115.94279999999999}, {'valence': 0.36332000000000003}]}]

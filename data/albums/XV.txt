@@ -1,1 +1,1 @@
-[{'tracks': [{'track_title': u'Complex', 'collaborators': [u'SHY Nodi'], 'uri': u'spotify:track:7bs2g5h2gay1aqjXggRzZ1'}], 'release_date': u'2018-08-24', 'name': u'Complex', 'uri': u'spotify:album:5qtUorkeXxZcMqSNzCCnrq'}]
+[{'name': 'Complex', 'uri': 'spotify:album:5qtUorkeXxZcMqSNzCCnrq', 'release_date': '2018-08-24', 'tracks': [{'track_title': 'Complex', 'uri': 'spotify:track:7bs2g5h2gay1aqjXggRzZ1', 'collaborators': ['SHY Nodi']}]}]

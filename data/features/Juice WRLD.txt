@@ -1,0 +1,1 @@
+[{'name': 'Goodbye & Good Riddance', 'date': '2018-05-23', 'features': [{'energy': 0.5600625}, {'loudness': -7.944000000000001}, {'tempo': 130.0185625}, {'valence': 0.331125}]}, {'name': 'Future & Juice WRLD Present... WRLD ON DRUGS', 'date': '2018-10-19', 'features': [{'energy': 0.5079374999999999}, {'loudness': -8.449}, {'tempo': 129.3275625}, {'valence': 0.5043125}]}]

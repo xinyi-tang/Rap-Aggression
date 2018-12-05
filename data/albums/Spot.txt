@@ -1,1 +1,1 @@
-[]
+[{'name': 'PROUD', 'uri': 'spotify:album:1kmTJmV4YO6Du6zEBq061c', 'release_date': '2018-01-19', 'tracks': [{'track_title': 'PROUD', 'uri': 'spotify:track:3oYTZa4MFZLQQMEjDqveWR', 'collaborators': ['Rita Ora']}]}]

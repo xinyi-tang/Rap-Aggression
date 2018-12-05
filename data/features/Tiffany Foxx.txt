@@ -1,0 +1,1 @@
+[{'name': 'Bad Bitch Commandments', 'date': '2018-11-21', 'features': [{'energy': 0.7279090909090908}, {'loudness': -3.97}, {'tempo': 136.02563636363632}, {'valence': 0.4012727272727272}]}]

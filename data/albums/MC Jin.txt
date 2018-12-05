@@ -1,1 +1,1 @@
-[{'tracks': [{'track_title': u'Hypocrite', 'collaborators': [u'Savannah Keyes'], 'uri': u'spotify:track:3j8l2tQ6LfaYlLkba7bXB0'}], 'release_date': u'2018-11-09', 'name': u'Hypocrite', 'uri': u'spotify:album:5IkkHwfEIEiFKUn1rP4Dzj'}]
+[{'name': 'Hypocrite', 'uri': 'spotify:album:5IkkHwfEIEiFKUn1rP4Dzj', 'release_date': '2018-11-09', 'tracks': [{'track_title': 'Hypocrite', 'uri': 'spotify:track:3j8l2tQ6LfaYlLkba7bXB0', 'collaborators': ['Savannah Keyes']}]}]

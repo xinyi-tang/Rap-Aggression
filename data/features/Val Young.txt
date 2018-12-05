@@ -1,0 +1,1 @@
+[{'name': 'Private Conversations', 'date': '2012-07-20', 'features': [{'energy': 0.8293636363636363}, {'loudness': -5.077636363636364}, {'tempo': 125.243}, {'valence': 0.8573636363636363}]}, {'name': 'Seduction', 'date': '1995-10-06', 'features': [{'energy': 0.5952222222222222}, {'loudness': -10.368222222222222}, {'tempo': 135.94299999999998}, {'valence': 0.6779999999999999}]}]

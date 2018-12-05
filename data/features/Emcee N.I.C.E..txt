@@ -1,0 +1,1 @@
+[{'name': '50 Shades of L.O.V.E. (Learning Our Various Emotions)', 'date': '2015-08-07', 'features': [{'energy': 0.30093}, {'loudness': -10.973560000000003}, {'tempo': 107.84541999999999}, {'valence': 0.34404}]}, {'name': 'All About U', 'date': '2017-08-11', 'features': [{'energy': 0.839}, {'loudness': -3.827}, {'tempo': 150.07}, {'valence': 0.321}]}]

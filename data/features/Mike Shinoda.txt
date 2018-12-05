@@ -1,0 +1,1 @@
+[{'name': 'The Rising Tied', 'date': '2005', 'features': [{'energy': 0.8431249999999999}, {'loudness': -5.0475625}, {'tempo': 122.57087500000002}, {'valence': 0.6606875}]}, {'name': 'Post Traumatic', 'date': '2018-06-15', 'features': [{'energy': 0.630125}, {'loudness': -8.0585625}, {'tempo': 129.1051875}, {'valence': 0.37583125}]}]

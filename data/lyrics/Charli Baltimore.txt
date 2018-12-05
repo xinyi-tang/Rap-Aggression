@@ -1,0 +1,1 @@
+[{'name': 'Hard2kill', 'date': '2018-07-19', 'tracks': []}, {'name': 'Hard 2 Kill', 'date': '2018-11-02', 'tracks': []}, {'name': 'Cold as Ice', 'date': '2017-02-24', 'tracks': []}]

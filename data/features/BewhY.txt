@@ -1,1 +1,1 @@
-[{'name': 'The Blind Star', 'date': '2017-09-17', 'features': [{'energy': 0.7909090909090909}, {'loudness': -4.991090909090909}, {'tempo': 103.82163636363636}, {'valence': 0.581}]}]
+[{'name': 'The Blind Star', 'date': '2017-09-17', 'features': [{'energy': 0.7909090909090909}, {'tempo': 103.82163636363636}, {'valence': 0.581}, {'loudness': -4.991090909090909}]}]

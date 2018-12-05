@@ -1,1 +1,1 @@
-[{'name': 'Black Trash: The Autobiography of Kirk Jones', 'date': '2000-01-01', 'features': [{'energy': 0.6860499999999999}, {'loudness': -7.209099999999999}, {'tempo': 92.56819999999999}, {'valence': 0.5417}]}]
+[{'name': 'Black Trash: The Autobiography of Kirk Jones', 'date': '2000-01-01', 'features': [{'energy': 0.6860499999999999}, {'tempo': 92.56819999999999}, {'valence': 0.5417}, {'loudness': -7.209099999999999}]}]

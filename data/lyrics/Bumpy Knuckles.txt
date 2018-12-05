@@ -1,0 +1,1 @@
+[{'name': 'Pop Duke, Vol. 1', 'date': '2018-05-18', 'tracks': []}, {'name': 'Ambition', 'date': '2011-10-28', 'tracks': []}, {'name': 'Industry Shakedown', 'date': '2000-01-01', 'tracks': []}, {'name': 'Poetry / Gangstas Again', 'date': '2003-11-24', 'tracks': []}, {'name': 'Konexion', 'date': '2003-06-02', 'tracks': []}]

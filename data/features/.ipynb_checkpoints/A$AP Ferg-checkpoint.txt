@@ -1,0 +1,1 @@
+[{'name': 'Trap Lord', 'date': '2013-08-16', 'features': [{'energy': 0.7282307692307692}]}, {'name': 'Still Striving', 'date': '2017-08-18', 'features': [{'energy': 0.7362142857142856}]}, {'name': 'ALWAYS STRIVE AND PROSPER', 'date': '2016-06-22', 'features': [{'energy': 0.6478947368421052}]}]

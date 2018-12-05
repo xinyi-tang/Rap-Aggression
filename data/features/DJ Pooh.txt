@@ -1,1 +1,1 @@
-[{'name': 'Bad Newz Travels Fast', 'date': '1997-03-04', 'features': [{'energy': 0.5733333333333335}, {'loudness': -8.3388}, {'tempo': 96.80966666666667}, {'valence': 0.6053333333333334}]}]
+[{'name': 'Bad Newz Travels Fast', 'date': '1997-03-04', 'features': [{'energy': 0.5733333333333335}, {'tempo': 96.80966666666667}, {'valence': 0.6053333333333334}, {'loudness': -8.3388}]}]

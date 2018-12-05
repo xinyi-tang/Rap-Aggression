@@ -1,0 +1,1 @@
+[{'name': 'The Red V', 'date': '2013-10-01', 'tracks': []}, {'name': "Agalito's Way", 'date': '2015-05-05', 'tracks': []}, {'name': 'Club Hoppin\' (12")', 'date': '2010-12-21', 'tracks': []}, {'name': 'Bo: The Legend of the Water Dragon', 'date': '2016-02-18', 'tracks': []}, {'name': 'You Already Know', 'date': '2018-08-25', 'tracks': []}]

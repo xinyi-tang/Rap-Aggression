@@ -1,0 +1,1 @@
+[{'name': 'Chinaman', 'date': '2018-08-20', 'tracks': []}, {'name': 'Still Nasty', 'date': '2016-08-22', 'tracks': []}, {'name': 'Freaky Chinese', 'date': '2004', 'tracks': []}, {'name': 'Stop Playin', 'date': '2004', 'tracks': [{'name': 'Stop Playin', 'lyrics': ''}, {'name': 'Stop Playin', 'lyrics': ''}]}]

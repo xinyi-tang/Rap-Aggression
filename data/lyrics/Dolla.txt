@@ -1,0 +1,1 @@
+[{'name': 'Trapping Out Da Bucket', 'date': '2017-11-21', 'tracks': []}, {'name': 'Long Story Short', 'date': '2018-06-08', 'tracks': []}, {'name': 'Finally a Way Out', 'date': '2018-03-18', 'tracks': []}, {'name': 'Pardon My Truth', 'date': '2018-03-12', 'tracks': []}]

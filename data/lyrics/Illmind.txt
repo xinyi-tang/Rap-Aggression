@@ -1,0 +1,1 @@
+[{'name': 'Only the Dead Know Brooklyn', 'date': '2006-01-01', 'tracks': []}, {'name': 'Live from the Tape Deck', 'date': '2010-10-05', 'tracks': []}, {'name': 'Behind the Curtain', 'date': '2001-06-19', 'tracks': []}, {'name': 'Behind the Curtain', 'date': '2001-06-19', 'tracks': []}, {'name': 'Art Of Onemind', 'date': '2005-06-06', 'tracks': []}]

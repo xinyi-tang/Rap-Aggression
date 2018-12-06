@@ -1,0 +1,1 @@
+[{'name': 'Reggie Bush and Kool-Aid 2', 'date': '2016-03-07', 'tracks': []}, {'name': 'Footprints on the Moon', 'date': '2017-02-03', 'tracks': []}, {'name': 'King Beezy', 'date': '2018-02-27', 'tracks': []}, {'name': 'Blue Magic', 'date': '2018-10-19', 'tracks': []}]
